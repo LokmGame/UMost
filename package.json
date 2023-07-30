@@ -1,0 +1,14 @@
+{
+  "name": "com.LokmGame.UMost",
+  "displayName": "UMost",
+  "version": "1.0.1",
+  "unity": "2018.4",
+  "description": "Unity资源工具合集，包含特效、贴图、模型、材质、着色器相关工具",
+  "keywords": ["unity", "tool"],
+  "author": "LOKM",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LokmGame/UMost.git"
+  }
+}
