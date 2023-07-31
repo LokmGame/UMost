@@ -61,8 +61,8 @@ namespace UMost.Editor
             TabIcon = "Shader Icon",
             EditorType = typeof(UMostShaderEditor),
             EnumType = EWindowType.Shader,
-            ToolTabName = new string[] { },
-            ToolFuncName = new string[] { },
+            ToolTabName = new string[] { "获取着色器实例化属性个数" },
+            ToolFuncName = new string[] { "ShowShadersInFolder_OnGUI" },
         };
     }
 }
